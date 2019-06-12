@@ -2,7 +2,7 @@ package com.czb.crm.utils;
 
 import java.util.List;
 
-public class PageBean<T> {
+public class PageBean<T> { 
     
 	private int totalCount;//总条数
 	private int currentPage;//当前页
